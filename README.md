@@ -46,7 +46,7 @@
 ## 🖼️ UI Preview
 
 <p align="center">
-  <img src="https://github.com/Dheeraj23-08/Health_insurance_predictor_1/Screenshot 2025-07-25 163154" alt="UI Screenshot" width="80%">
+  <img src="https://github.com/Dheeraj23-08/Health_insurance_predictor_1/blob/main/Screenshot%202025-07-25%20163154.png" alt="UI Screenshot" width="80%">
 </p>
 
 ---
