@@ -41,15 +41,11 @@ It enables **insurance providers** and **consumers** to estimate potential premi
 
 ---
 
----
-
 ## 🖼️ App UI Preview
 
 <p align="center">
-  <img src="images/ui_screenshot.png" alt="Health Insurance Predictor UI" width="700"/>
+  <img src="https://github.com/Dheeraj23-08/Health_insurance_predictor_1/blob/main/Screenshot%202025-07-25%20163154.png" alt="Health Insurance Predictor UI" width="700"/>
 </p>
-
-```
 
 ---
 
