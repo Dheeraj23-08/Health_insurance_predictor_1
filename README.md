@@ -41,20 +41,14 @@ It enables **insurance providers** and **consumers** to estimate potential premi
 
 ---
 
-## 📂 Project Structure
+---
 
-```bash
-health_insurance_predictor_1/
-│
-├── app.py                   # Streamlit application script
-├── model/
-│   └── insurance_model.pkl  # Trained ML model
-├── data/
-│   └── insurance.csv        # Dataset used for training
-├── notebooks/
-│   └── EDA_Modeling.ipynb   # EDA and model development notebook
-├── requirements.txt         # Project dependencies
-└── README.md                # Project documentation
+## 🖼️ App UI Preview
+
+<p align="center">
+  <img src="images/ui_screenshot.png" alt="Health Insurance Predictor UI" width="700"/>
+</p>
+
 ```
 
 ---
