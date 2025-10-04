@@ -93,5 +93,6 @@ It enables **insurance providers** and **consumers** to estimate potential premi
 
 ## 📺 Live Demo
 
-🔗 *[click here to ptredit your health insurance plan]*
+Try it online:  
+🔗 [Click here to predict your health insurance plan](https://healthinsurancepredictor-dheeraj-thalour.streamlit.app/)
 
